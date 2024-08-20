@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bDl+xNfd0opUZOodPj54sXw9R+rpLzvvN6ox4lXZAMA=",
+  "Hash": "M9IHOum6CTS7lfHbD+JOIh/7TkTxpxeng71i1fcg5Kc=",
   "Source": "assignment-2",
   "BasePath": "_content/assignment-2",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\usmp\\progra-I\\assignments\\assignment-2\\wwwroot\\img\\yuya.jpeg",
+      "SourceId": "assignment-2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\usmp\\progra-I\\assignments\\assignment-2\\wwwroot\\",
+      "BasePath": "_content/assignment-2",
+      "RelativePath": "img/yuya.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\yuya.jpeg"
     },
     {
       "Identity": "D:\\usmp\\progra-I\\assignments\\assignment-2\\wwwroot\\js\\site.js",
